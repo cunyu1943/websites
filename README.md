@@ -5,9 +5,9 @@
 -   项目说明：推荐好玩好用的网站，此项目主要用于收集一些常用网站，长期持续更新。
 -   项目类型：资料收集
 
--   [软件列表](https://github.com/cunyu1943/amazing-softwares/blob/master/softwares.md)
+-   [网站列表](https://github.com/cunyu1943/amazing-websites/blob/master/websites.md)
 
-欢迎推荐各种好玩好用的网站！
+欢迎大家推荐更多各种好玩好用的网站，如果有失效的，一定要及时提交 Issues 哦！
 
 # 联系作者
 
