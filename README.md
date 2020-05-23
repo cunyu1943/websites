@@ -3,9 +3,19 @@
 # 简介
 
 -   项目说明：推荐好玩好用的网站，此项目主要用于收集一些常用网站，长期持续更新。
+
 -   项目类型：资料收集
 
--   [网站列表](https://github.com/cunyu1943/amazing-websites/blob/master/websites.md)
+-   项目地址
+
+    -   [Github](https://github.com/cunyu1943/amazing-websites)
+    -   [Gitee](https://github.com/cunyu1943/amazing-websites)
+
+-   网站详情列表
+
+    -   [Github 网站详细列表](https://github.com/cunyu1943/amazing-websites/blob/master/websites.md)
+
+    -   [Gitee 网站详细列表](https://gitee.com/cunyu1943/amazing-websites/blob/master/websites.md)
 
 欢迎大家推荐更多各种好玩好用的网站，如果有失效的，一定要及时提交 Issues 哦！
 
