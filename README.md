@@ -11,11 +11,11 @@
     -   [Github](https://github.com/cunyu1943/amazing-websites)
     -   [Gitee](https://github.com/cunyu1943/amazing-websites)
 
--   网站详情列表
+-   网站列表详情
 
-    -   [Github 网站详细列表](https://github.com/cunyu1943/amazing-websites/blob/master/websites.md)
+    -   [Github 网站列表详情](https://github.com/cunyu1943/amazing-websites/blob/master/websites.md)
 
-    -   [Gitee 网站详细列表](https://gitee.com/cunyu1943/amazing-websites/blob/master/websites.md)
+    -   [Gitee 网站列表详情](https://gitee.com/cunyu1943/amazing-websites/blob/master/websites.md)
 
 欢迎大家推荐更多各种好玩好用的网站，如果有失效的，一定要及时提交 Issues 哦！
 
