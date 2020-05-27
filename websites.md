@@ -21,7 +21,7 @@
 | [坚果云](https://www.jianguoyun.com/) | 容量无限，但每月上传流量有限                                 |
 | [曲奇云盘](https://quqi.com/)         | 免费容量 2 T，还可以创建多个分组，每个分组 250 G 容量        |
 | [天翼云盘](https://cloud.189.cn/)     | 早期用户福利较好，现在完成任务能有 1 T 以上，每天签到抽奖还能扩容 |
-| [奶牛快船](https://cowtransfer.com/)  | 一款无比安全、省时高效的，免费 5 G 容量，不限速              |
+| [奶牛快传](https://cowtransfer.com/)  | 一款无比安全、省时高效的，免费 5 G 容量，不限速              |
 
 
 
@@ -42,6 +42,8 @@
 | [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) | 立即翻译任何文档格式为任意语言，并保持排版不变，免费。       |
 | [在线工具](https://tool.oschina.net/)                       | 在线工具，程序员的最爱                                       |
 | [RecordScreen.io](https://recordscreen.io/)                 | 在线屏幕录制，不再需要任何软件                               |
+| [Flourish](https://flourish.studio/)                        | 强大易用的数据可视化在线                                     |
+| [docSmall](https://docsmall.com/)                           | 在线压缩工具，支持图片、gif、PDF 分割、PDF 合并、PDF 压缩等  |
 
 # 学术篇
 
