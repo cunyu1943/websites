@@ -14,16 +14,18 @@
 
 # 云存储篇
 
-| 网站                                  | 说明                                                         |
-| ------------------------------------- | ------------------------------------------------------------ |
-| [百度网盘](https://pan.baidu.com/)    | 毒×却不可或缺，容量 2 T                                      |
-| [蓝奏云](https://pc.woozooo.com/)     | 容量无限，但上传大小限制在 100 M 之内                        |
-| [坚果云](https://www.jianguoyun.com/) | 容量无限，但每月上传流量有限                                 |
-| [曲奇云盘](https://quqi.com/)         | 免费容量 2 T，还可以创建多个分组，每个分组 250 G 容量        |
-| [天翼云盘](https://cloud.189.cn/)     | 早期用户福利较好，现在完成任务能有 1 T 以上，每天签到抽奖还能扩容 |
-| [奶牛快传](https://cowtransfer.com/)  | 一款无比安全、省时高效的，免费 5 G 容量，不限速              |
-
-
+| 网站                                                         | 说明                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [百度网盘](https://pan.baidu.com/)                           | 毒×却不可或缺，免费 2 T 容量，限速                           |
+| [蓝奏云](https://pc.woozooo.com/)                            | 无限容量，但上传大小限制在 100 M 之内，不限速                |
+| [坚果云](https://www.jianguoyun.com/)                        | 无限容量，但每月上传流量有限，不限速                         |
+| [曲奇云盘](https://quqi.com/)                                | 免费 2 T 容量，还可以创建多个分组，每个分组 250 G 容量，不限速 |
+| [天翼云盘](https://cloud.189.cn/)                            | 早期用户福利较好，现在完成任务能有 1 T 容量以上，每天签到抽奖还能扩容，不限速 |
+| [奶牛快传](https://cowtransfer.com/)                         | 免费 5 G 容量，一款无比安全、省时高效的网盘，不限速          |
+| [文叔叔](https://www.wenshushu.cn/)                          | 免费 20 G 容量，一款可以将任意文件，简单、安全、极速传给你朋友的工具，单文件上传最大 5 G，不限速 |
+| [Onedrive](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage?rtc=1) | 免费 5 G 容量，巨硬出品，国内访问较慢                        |
+| [90 网盘](https://www.90pan.com/)                            | 无限容量，单文件上传大小限制在 150 M 之内，可以免费自由存储、共享、下载各类文件，文件安全加密，永久存储，同时为用户提供广告分成收益服务，不限速 |
+| [城通网盘](https://www.ctfile.com/)                          | 免费 400 G  容量，单文件 4 G，为用户提供广告分成收益服务,    |
 
 # 工具篇
 
@@ -44,6 +46,8 @@
 | [RecordScreen.io](https://recordscreen.io/)                 | 在线屏幕录制，不再需要任何软件                               |
 | [Flourish](https://flourish.studio/)                        | 强大易用的数据可视化在线                                     |
 | [docSmall](https://docsmall.com/)                           | 在线压缩工具，支持图片、gif、PDF 分割、PDF 合并、PDF 压缩等  |
+| [工具123](http://www.gjw123.com/)                           | 一家纯在线免安装的工具网站【免费使用】                       |
+| [兔二工具](https://www.tool2.cn/)                           | 一个集合了众多在线工具的神奇工具箱，包括各大短视频平台的无水印视频解析提取，音乐解析下载等一众功能 |
 
 # 学术篇
 
@@ -81,6 +85,7 @@
 | [W3school](https://www.w3school.com.cn/)                     | 全球最大中文 Web 技术教程                                    |
 | [菜鸟教程](https://www.runoob.com/)             | 各种编程语言文档教程         |
 | [易百教程](https://www.yiibai.com/) | 各种编程语言文档教程 |
+| [书栈网](https://www.bookstack.cn/) | 程序员、IT 互联网开源编程书籍免费阅读下载 |
 | [微信官方文档](https://developers.weixin.qq.com/doc/) | 微信官方开发文档 |
 | [Windows 开发环境](https://docs.microsoft.com/zh-cn/windows/dev-environment/) | 微软出品的 Windows 开发环境教程 |
 | [DL4J](https://deeplearning4j.org/cn/index.html) | Deeplearning4j，基于 Java 语言的神经网络工具包，在线教程及 API |
@@ -139,6 +144,7 @@
 | [KIM主页](https://kim.plopco.com/)                       | 国内网址 + 国外网址 + 自定义网址 + 透明主题 + 七彩主题 + 多引擎搜索 + 动态壁纸 + 高清壁纸 |
 | [Seeseed](https://www.seeseed.com/)                      | 所有追求美和灵感的聚积导航网站                               |
 | [笔点](https://www.bidianer.com/)                        | 定制你自己的导航                                             |
+| [龙轩导航](http://m.ilxdh.com/)                          | 包括了生活，搜索，影视，设计素材还有各类网课的导航，涵括日常所需资源 |
 
 # 休闲娱乐篇
 
