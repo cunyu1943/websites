@@ -17,7 +17,7 @@
 
     -   [Gitee 网站列表详情](https://gitee.com/cunyu1943/amazing-websites/blob/master/websites.md)
 
-欢迎大家推荐更多各种好玩好用的网站，如果有失效的，一定要及时提交 Issues 哦！
+欢迎大家推荐更多各种好玩好用的网站，如果有失效的，一定要及时提交 Issues 哦！如果对你有用，可以点击右上角 **Star** 表示支持一下哦！
 
 # 联系作者
 
