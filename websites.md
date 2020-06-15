@@ -52,9 +52,8 @@
 
 | 网站                                                       | 说明                                |
 | ---------------------------------------------------------- | ----------------------------------- |
+| [图说](https://tushuo.baidu.com/)                          | 零编程玩转图表                      |
 | [PPT 超级市场](http://ppt.sotary.com/web/wxapp/index.html) | 看名字就知道，各种 PPT 模板免费下载 |
-|                                                            |                                     |
-|                                                            |                                     |
 
 
 
@@ -124,6 +123,7 @@
 | [谷歌](https://www.google.com/)               | 全世界最好的搜索引擎，不用说了     |
 | [多吉搜索](https://www.dogedoge.com/)         | 一款国产的搜索引擎，比某度 好多了  |
 | [Magi](https://magi.com/)                     | 基于机器学习的信息抽取和检索系统   |
+| [秘迹搜索](https://mijisou.com/)              | 这是一个不追踪你的搜索引擎         |
 | [搜狗搜索](https://www.sogou.com/)            | 国内搜索引擎之一                   |
 | [百度](https://www.baidu.com/)                | 讨厌却又离不开                     |
 | [必应](https://cn.bing.com/)                  | 巨硬出品                           |
@@ -175,6 +175,10 @@
 | [第一电影网](https://www.001d.com/)           | 各种类型影视在线观看                   |
 | [疯狂影视搜索](http://ifkdy.com/)             | 在线搜索影视，然后跳转对应链接即可观看 |
 | [片库](https://www.pianku.tv/)                | 高清资源下载                           |
+| [奈菲影视](https://www.nfmovies.com/)         | 提供电影电视剧在线观看                 |
+| [TVB云播](https://www.hktvyb.com/)            | 蓝光画质电影电视剧在线观看             |
+| [66影视](https://www.66ys.org/)               | 好看的电视剧                           |
+|                                               |                                        |
 
 ## 音乐
 
@@ -195,6 +199,7 @@
 | 网站                                                         | 说明                                                   |
 | :----------------------------------------------------------- | ------------------------------------------------------ |
 | [Wallpaper Abyss](https://wall.alphacoders.com/?lang=Chinese) | 高清壁纸聚集地                                         |
+| [极简壁纸](https://bz.zzzmh.cn/)                             | 海量电脑桌面壁纸                                       |
 | [彼岸图网](http://pic.netbian.com/)                          | 4K画质壁纸聚集地                                       |
 | [高清壁纸](https://hdqwalls.com/)                            | 高清壁纸下载                                           |
 | [Wallroom](https://wallroom.io/)                             | 壁纸下载                                               |
@@ -212,5 +217,6 @@
 | [正版中国](https://www.getitfree.cn/)                   | 分享正版免费软件                         |
 | [大眼仔](http://www.dayanzai.me/)                       | 专注视频剪辑、解压、录屏、思维导图等软件 |
 | [壹米软件](https://ymso.net/)                           | 优秀的纯净软件分享                       |
+| [鹏少资源网](https://www.jokerps.com/)                  | 分享各种软件资源                         |
 | [NoCmd](https://www.nocmd.com/)                         | 各种绿色破解软件下载                     |
 
