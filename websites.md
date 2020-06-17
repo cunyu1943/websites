@@ -21,6 +21,7 @@
 | [天翼云盘](https://cloud.189.cn/)                            | 早期用户福利较好，现在完成任务能有 1 T 容量以上，每天签到抽奖还能扩容，不限速 |
 | [奶牛快传](https://cowtransfer.com/)                         | 免费 5 G 容量，一款无比安全、省时高效的网盘，不限速          |
 | [文叔叔](https://www.wenshushu.cn/)                          | 免费 20 G 容量，一款可以将任意文件，简单、安全、极速传给你朋友的工具，单文件上传最大 5 G，不限速 |
+| [AirPortal](https://airportal.cn/)                           | AirPortal 是一个免费的多平台文件传输和分享网站；它的主要功能就是帮助我们文件传输和分享，不管你是手机，电脑，不同系统，都可以使用这个网站传输分享文件 |
 | [Onedrive](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage?rtc=1) | 免费 5 G 容量，巨硬出品，国内访问较慢                        |
 | [90 网盘](https://www.90pan.com/)                            | 无限容量，单文件上传大小限制在 150 M 之内，可以免费自由存储、共享、下载各类文件，文件安全加密，永久存储，同时为用户提供广告分成收益服务，不限速 |
 | [城通网盘](https://www.ctfile.com/)                          | 免费 400 G  容量，单文件 4 G，为用户提供广告分成收益服务,    |
@@ -50,10 +51,23 @@
 
 # 办公篇
 
-| 网站                                                       | 说明                                |
-| ---------------------------------------------------------- | ----------------------------------- |
-| [图说](https://tushuo.baidu.com/)                          | 零编程玩转图表                      |
-| [PPT 超级市场](http://ppt.sotary.com/web/wxapp/index.html) | 看名字就知道，各种 PPT 模板免费下载 |
+| 网站                                                       | 说明                                                         |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| [图说](https://tushuo.baidu.com/)                          | 零编程玩转图表                                               |
+| [花火](http://hanabi.data-viz.cn/index)                    | 在线数据短视频工具                                           |
+| [文图](https://wentu.io/)                                  | 文图是一款在线编辑、即时生成报告的轻量级数据可视化工具       |
+| [PPT 超级市场](http://ppt.sotary.com/web/wxapp/index.html) | 看名字就知道，各种 PPT 模板免费下载                          |
+| [第 1 PPT](http://www.1ppt.com/)                           | 各种 PPT 模板免费下载                                        |
+| [叮当设计](https://www.dingdangsheji.com/)                 | 分享优秀设计资源，已更新至  1633  个素材模板，全部免费下载   |
+| [AllTheFreeStock](https://allthefreestock.com/)            | 整合了全球近 200 个各类免费素材网站，包含了图片、视频、图标、样机、音效、配色……，做设计你想要的免费素材 |
+| [石墨文档](https://shimo.im/)                              | 在线办公网站，支持在线文档，在线表格，在线幻灯片，在线思维导图，支持多人云端协作功能 |
+| [金山文档](https://docs.wps.cn/)                           | Office 在线办公神器                                          |
+| [Process On](https://www.processon.com/)                   | 免费在线作图、实时协作。支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等 |
+| [白板](https://witeboard.com/)                             | 个支持在线涂涂画画头脑风暴的网站；通过这个网站，你可以用鼠标拖拽在电脑屏幕上发散思维，头脑风暴，也可以用于总结演示等等场景 |
+| [ChromePDF](https://cn.chromepdf.com/)                     | 完全免费的轻量级在线 PDF 编辑网站                            |
+| [OfficeConverter](https://cn.office-converter.com/)        | 功能非常强大的免费在线文件转换工具，它支持多种文件在线转换，并且每一种文件都包含了多种格式 |
+| [DeepL](https://www.deepl.com/translator)                  | 新颖好用的翻译神器，主要的特点是翻译出来的内容接近真人语义，并且读起来准确通顺，非常自然 |
+| [BigJPG](https://bigjpg.com/)                              | AI 人工智能图片放大                                          |
 
 
 
@@ -118,22 +132,25 @@
 
 ## 搜索
 
-| 网站                                          | 说明                               |
-| :-------------------------------------------- | :--------------------------------- |
-| [谷歌](https://www.google.com/)               | 全世界最好的搜索引擎，不用说了     |
-| [多吉搜索](https://www.dogedoge.com/)         | 一款国产的搜索引擎，比某度 好多了  |
-| [Magi](https://magi.com/)                     | 基于机器学习的信息抽取和检索系统   |
-| [秘迹搜索](https://mijisou.com/)              | 这是一个不追踪你的搜索引擎         |
-| [搜狗搜索](https://www.sogou.com/)            | 国内搜索引擎之一                   |
-| [百度](https://www.baidu.com/)                | 讨厌却又离不开                     |
-| [必应](https://cn.bing.com/)                  | 巨硬出品                           |
-| [DuchDuckGo](https://duckduckgo.com/)         | 匿名搜索引擎                       |
-| [虫部落.快搜](https://search.chongbuluo.com/) | 多类型搜索网站                     |
-| [伪射手网](https://assrt.net/)                | 影视字幕搜索                       |
-| [茶杯狐](https://www.cupfox.com/)             | 电影、剧集、动漫、节目搜索         |
-| [小白盘](https://www.xiaobaipan.com/)         | 网盘搜索                           |
-| [56 网盘搜索](https://www.56wangpan.com/)     | 网盘搜索                           |
-| [在线工具](https://tool.lu/)                  | 程序员一定会喜欢的在线工具导航网站 |
+| 网站                                          | 说明                                                   |
+| :-------------------------------------------- | :----------------------------------------------------- |
+| [谷歌](https://www.google.com/)               | 全世界最好的搜索引擎，不用说了                         |
+| [多吉搜索](https://www.dogedoge.com/)         | 一款国产的搜索引擎，比某度 好多了                      |
+| [Magi](https://magi.com/)                     | 基于机器学习的信息抽取和检索系统                       |
+| [秘迹搜索](https://mijisou.com/)              | 这是一个不追踪你的搜索引擎                             |
+| [搜狗搜索](https://www.sogou.com/)            | 国内搜索引擎之一                                       |
+| [百度](https://www.baidu.com/)                | 讨厌却又离不开                                         |
+| [必应](https://cn.bing.com/)                  | 巨硬出品                                               |
+| [DuchDuckGo](https://duckduckgo.com/)         | 匿名搜索引擎                                           |
+| [虫部落.快搜](https://search.chongbuluo.com/) | 多类型搜索网站                                         |
+| [伪射手网](https://assrt.net/)                | 影视字幕搜索                                           |
+| [茶杯狐](https://www.cupfox.com/)             | 电影、剧集、动漫、节目搜索                             |
+| [小白盘](https://www.xiaobaipan.com/)         | 网盘搜索                                               |
+| [56 网盘搜索](https://www.56wangpan.com/)     | 网盘搜索                                               |
+| [大圣盘](https://www.dashengpan.com/)         | 最好用的百度网盘搜索引擎                               |
+| [大力盘搜索](https://dalipan.com/)            | 非常好用的网盘搜索网站                                 |
+| [熊猫搜书](https://ebook.huzerui.com/#/)      | 电子书搜索                                             |
+| [Trace Moe](https://trace.moe/)               | 提供一张动漫的截图，网站就可以帮助你轻松找到对应的动漫 |
 
 ## 导航
 
@@ -154,31 +171,34 @@
 | [Seeseed](https://www.seeseed.com/)                      | 所有追求美和灵感的聚积导航网站                               |
 | [笔点](https://www.bidianer.com/)                        | 定制你自己的导航                                             |
 | [龙轩导航](http://m.ilxdh.com/)                          | 包括了生活，搜索，影视，设计素材还有各类网课的导航，涵括日常所需资源 |
+| [在线工具](https://tool.lu/)                             | 程序员一定会喜欢的在线工具导航网站                           |
+| [爱资料在线工具](https://www.toolnb.com/)                | 网站集合了各类专业、实用、有趣的小工具                       |
+| [MikuTools](https://tools.miku.ac/)                      | 在线小工具集合                                               |
 
 # 休闲娱乐篇
 
 ## 影视
 
-| 网站                                          | 说明                                   |
-| :-------------------------------------------- | -------------------------------------- |
-| [完美看看](http://www.wanmeikk.me/)           | 各种高清影视资源聚合地                 |
-| [美剧天堂](https://www.meijutt.tv/)           | 喜欢看美剧的你一定不能错过             |
-| [6V电影网](https://www.66s.cc/?jevsfm=z8iuj3) | 电影下载及在线观看                     |
-| [NO视频](https://www.novipnoad.com/)          | 在线美剧、韩剧、日剧等                 |
-| [樱花动漫](http://www.yhdm.tv/)               | 喜爱动漫的你一定会喜欢的               |
-| [变Tube](https://www.biantube.com/)           | YouTube 上不了？没关系，这个网站满足你 |
-| [在线之家](https://www.zxzjs.com/)            | 在线美日韩剧                           |
-| [我乐电影网](http://56dy.com/)                | 在线看电影                             |
-| [影海](http://www.yinghub.com/)               | 在线看美剧、英剧、电影等               |
-| [酷绘](https://m.kuhuiv.com/)                 | 各种影视资源聚合                       |
-| [高清电影天堂](https://www.gaoqing888.com/)   | 电影磁力链接下载                       |
-| [第一电影网](https://www.001d.com/)           | 各种类型影视在线观看                   |
-| [疯狂影视搜索](http://ifkdy.com/)             | 在线搜索影视，然后跳转对应链接即可观看 |
-| [片库](https://www.pianku.tv/)                | 高清资源下载                           |
-| [奈菲影视](https://www.nfmovies.com/)         | 提供电影电视剧在线观看                 |
-| [TVB云播](https://www.hktvyb.com/)            | 蓝光画质电影电视剧在线观看             |
-| [66影视](https://www.66ys.org/)               | 好看的电视剧                           |
-|                                               |                                        |
+| 网站                                          | 说明                                                         |
+| :-------------------------------------------- | ------------------------------------------------------------ |
+| [完美看看](http://www.wanmeikk.me/)           | 各种高清影视资源聚合地                                       |
+| [美剧天堂](https://www.meijutt.tv/)           | 喜欢看美剧的你一定不能错过                                   |
+| [6V电影网](https://www.66s.cc/?jevsfm=z8iuj3) | 电影下载及在线观看                                           |
+| [NO视频](https://www.novipnoad.com/)          | 在线美剧、韩剧、日剧等                                       |
+| [樱花动漫](http://www.yhdm.tv/)               | 喜爱动漫的你一定会喜欢的                                     |
+| [变Tube](https://www.biantube.com/)           | YouTube 上不了？没关系，这个网站满足你                       |
+| [在线之家](https://www.zxzjs.com/)            | 在线美日韩剧                                                 |
+| [我乐电影网](http://56dy.com/)                | 在线看电影                                                   |
+| [影海](http://www.yinghub.com/)               | 在线看美剧、英剧、电影等                                     |
+| [酷绘](https://m.kuhuiv.com/)                 | 各种影视资源聚合                                             |
+| [高清电影天堂](https://www.gaoqing888.com/)   | 电影磁力链接下载                                             |
+| [第一电影网](https://www.001d.com/)           | 各种类型影视在线观看                                         |
+| [疯狂影视搜索](http://ifkdy.com/)             | 在线搜索影视，然后跳转对应链接即可观看                       |
+| [片库](https://www.pianku.tv/)                | 高清资源下载                                                 |
+| [奈菲影视](https://www.nfmovies.com/)         | 提供电影电视剧在线观看                                       |
+| [TVB云播](https://www.hktvyb.com/)            | 蓝光画质电影电视剧在线观看                                   |
+| [66影视](https://www.66ys.org/)               | 好看的电视剧                                                 |
+| [微博党](http://www.weibodang.cn/)            | 实用的视频下载网站，支持网易云公开课、头条视频、优酷、微博、腾讯视频等多个主流视频网站下载，还支持在线网页长截图、在线二维码生成等功能 |
 
 ## 音乐
 
