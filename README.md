@@ -1,4 +1,6 @@
-# amazing-websites
+# amazing-websites 
+
+![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-websites?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-websites?color=G&label=Stars)
 
 ## 📘 简介
 
