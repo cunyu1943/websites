@@ -239,7 +239,7 @@
 | [MSDN](https://msdn.itellyou.cn/)                            | 微软相关资源下                                               |
 | [胡萝卜周](http://www.carrotchou.blog/)                      | 各种正版及破解软件下载                                       |
 | [正版中国](https://www.getitfree.cn/)                        | 分享正版免费软件                                             |
-| [小众软件](https://www.appinn.com/)                          |                                                              |
+| [小众软件](https://www.appinn.com/)                          | 软件下载推荐                                                 |
 | [大眼仔](http://www.dayanzai.me/)                            | 专注视频剪辑、解压、录屏、思维导图等软件                     |
 | [壹米软件](https://ymso.net/)                                | 优秀的纯净软件分享                                           |
 | [鹏少资源网](https://www.jokerps.com/)                       | 分享各种软件资源                                             |
