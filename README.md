@@ -204,6 +204,7 @@
 | [TVB云播](https://www.hktvyb.com/)            | 蓝光画质电影电视剧在线观看                                   |
 | [66影视](https://www.66ys.org/)               | 好看的电视剧                                                 |
 | [微博党](http://www.weibodang.cn/)            | 实用的视频下载网站，支持网易云公开课、头条视频、优酷、微博、腾讯视频等多个主流视频网站下载，还支持在线网页长截图、在线二维码生成等功能 |
+| [Savieo](https://savieo.com/)                 | 一个视频下载工具，目前支持下载国外众多主流的34个网站，YouTube，Twitter，Facebook等等。 |
 
 #### 🎵 音乐
 
@@ -232,16 +233,21 @@
 
 ### ⏳ 资源下载篇
 
-| 网站                                                    | 说明                                     |
-| ------------------------------------------------------- | ---------------------------------------- |
-| [Windows系统下载](https://tb.rg-adguard.net/public.php) | Windows系统下载                          |
-| [MSDN](https://msdn.itellyou.cn/)                       | 微软相关资源下                           |
-| [胡萝卜周](http://www.carrotchou.blog/)                 | 各种正版及破解软件下载                   |
-| [正版中国](https://www.getitfree.cn/)                   | 分享正版免费软件                         |
-| [大眼仔](http://www.dayanzai.me/)                       | 专注视频剪辑、解压、录屏、思维导图等软件 |
-| [壹米软件](https://ymso.net/)                           | 优秀的纯净软件分享                       |
-| [鹏少资源网](https://www.jokerps.com/)                  | 分享各种软件资源                         |
-| [NoCmd](https://www.nocmd.com/)                         | 各种绿色破解软件下载                     |
+| 网站                                                         | 说明                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Windows系统下载](https://tb.rg-adguard.net/public.php)      | Windows系统下载                                              |
+| [MSDN](https://msdn.itellyou.cn/)                            | 微软相关资源下                                               |
+| [胡萝卜周](http://www.carrotchou.blog/)                      | 各种正版及破解软件下载                                       |
+| [正版中国](https://www.getitfree.cn/)                        | 分享正版免费软件                                             |
+| [小众软件](https://www.appinn.com/)                          |                                                              |
+| [大眼仔](http://www.dayanzai.me/)                            | 专注视频剪辑、解压、录屏、思维导图等软件                     |
+| [壹米软件](https://ymso.net/)                                | 优秀的纯净软件分享                                           |
+| [鹏少资源网](https://www.jokerps.com/)                       | 分享各种软件资源                                             |
+| [异星软件空间](https://link.zhihu.com/?target=http%3A//www.yxssp.com/) | 涵盖了安卓、苹果、Windows、Linux 的软件下载，网站界面简介，广告不多，不影响浏览 |
+| [软件SOS](https://www.rjsos.com/)                            | Adobe 全家桶，还有各种设计类的软件                           |
+| [汉化博客](http://www.th-sjy.com/)                           | 提供软件的汉化下载                                           |
+| [分享者](https://link.zhihu.com/?target=http%3A//www.sharerw.com/) | 分享一些看影视软件，绿化版的，办公软件、设计软件             |
+| [NoCmd](https://www.nocmd.com/)                              | 各种绿色破解软件下载                                         |
 
 
 ## 👀 联系我
