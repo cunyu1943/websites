@@ -25,6 +25,7 @@
 | [Onedrive](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage?rtc=1) | 免费 5 G 容量，巨硬出品，国内访问较慢                        |
 | [90 网盘](https://www.90pan.com/)                            | 无限容量，单文件上传大小限制在 150 M 之内，可以免费自由存储、共享、下载各类文件，文件安全加密，永久存储，同时为用户提供广告分成收益服务，不限速 |
 | [城通网盘](https://www.ctfile.com/)                          | 免费 400 G  容量，单文件 4 G，为用户提供广告分成收益服务,    |
+| [6 盘](https://v3-beta.6pan.cn/)                             | 6T 免费容量，不限速，但是分享，下载等功能比较简陋，正在开发中 |
 
 # 🔧 工具篇
 
@@ -95,6 +96,7 @@
 | [赛码](https://exercise.acmcoder.com/)             | IT 笔试加分利器                            |
 | [hihoCoder](http://hihocoder.com/problemset)       | LeetCode 类刷题网站                        |
 | [七月在线](https://www.julyedu.com/question/index) | 一站式刷遍各大互联网公司人工智能笔试面试题 |
+| [N 诺](http://noobdream.com/)                      | 计算机学习考研必备神器                     |
 
 ## 🗒 文字/视频教程
 
@@ -135,6 +137,7 @@
 | [谷歌](https://www.google.com/)               | 全世界最好的搜索引擎，不用说了                         |
 | [多吉搜索](https://www.dogedoge.com/)         | 一款国产的搜索引擎，比某度 好多了                      |
 | [Magi](https://magi.com/)                     | 基于机器学习的信息抽取和检索系统                       |
+| [Goobe](https://goobe.io/)                    | 一个好用的“程序员搜索”                                 |
 | [秘迹搜索](https://mijisou.com/)              | 这是一个不追踪你的搜索引擎                             |
 | [搜狗搜索](https://www.sogou.com/)            | 国内搜索引擎之一                                       |
 | [百度](https://www.baidu.com/)                | 讨厌却又离不开                                         |
@@ -225,7 +228,7 @@
 | [Pexels](https://www.pexels.com/zh-cn/)                      | 才华横溢的摄影作者在这里免费分享最精彩的素材照片和视频 |
 | [Wallpapermaiden](https://www.wallpapermaiden.com/)          | 壁纸下载                                               |
 
-# ⏳ 资源下载篇
+## ⏳ 资源下载篇
 
 | 网站                                                    | 说明                                     |
 | ------------------------------------------------------- | ---------------------------------------- |
