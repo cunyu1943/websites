@@ -78,6 +78,8 @@
 -   [diagram](https://app.diagrams.net/)：免费在线作图  
 -   [百度脑图](https://naotu.baidu.com)：在线脑图工具
 -   [Excalidraw](https://excalidraw.com/)：手绘工具，支持导出矢量图和图片
+-   [GitMind](https://gitmind.cn/)：免费思维导图软件
+-   [MarkMap](https://gitmind.cn/)：用 Markdown 画思维导图
 
 ### 🎊 素材下载
 
