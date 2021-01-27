@@ -13,11 +13,11 @@
 | **Github** | https://github.com/cunyu1943/amazing-websites |
 | **Gitee**  | https://gitee.com/cunyu1943/amazing-websites  |
 
-欢迎大家推荐更多各种好玩好用的网站，如果有失效的，一定要及时提交 Issues 哦！如果对你有用，可以点击右上角 **Star** 💖💖💖 表示支持一下哦 🙏🙏🙏！
+欢迎大家推荐更多各种好玩好用的网站，如果有失效的，一定要及时提交 Issues 哦！如果对你有用，可以点击右上角 **Star** 💖 表示支持一下哦 🙏
 
-```!
-对于知道要查找的网站类别后，善用 Ctrl + F 快捷方式
-```
+温馨提示：
+
+>   对于知道要查找的网站类别后，善用 Ctrl + F 快捷方式
 
 
 
