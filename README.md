@@ -148,13 +148,14 @@
 -   [我要自学网](https://www.51zxw.net/)：免费视频教程，提供全方位软件学习  
 -   [优优教程网](https://uiiiuiii.com/)：学设计找灵感
 
-### 🔎 搜索
+### 🔎 综合搜索
 
 -   [谷歌](https://www.google.com/)：全世界最好的搜索引擎，不用说了  
 -   [多吉搜索](https://www.dogedoge.com/)：一款国产的搜索引擎，比某度 好多了  
 -   [Magi](https://magi.com/)：基于机器学习的信息抽取和检索系统  
 -   [秘迹搜索](https://mijisou.com/)：这是一个不追踪你的搜索引擎  
 -   [搜狗搜索](https://www.sogou.com/)：国内搜索引擎之一  
+-   [360 搜索](https://www.so.com/)：360 出品
 -   [百度](https://www.baidu.com/)：讨厌却又离不开  
 -   [必应](https://cn.bing.com/)：巨硬出品  
 -   [DuchDuckGo](https://duckduckgo.com/)：匿名搜索引擎  
@@ -225,6 +226,9 @@
 -   [奈菲影视](https://www.nfmovies.com/)：提供电影电视剧在线观看  
 -   [TVB云播](https://www.hktvyb.com/)：蓝光画质电影电视剧在线观看  
 -   [66影视](https://www.66ys.org/)：好看的电视剧  
+-   [吾爱分享VIP影视](https://52online.vip/)：在线电视剧
+-   [真不卡影院](https://www.zhenbuka.com/)：超强无水印广告视频站
+-   [蓝马影视](https://www.lanmays.com/)：高清电视剧，电影
 -   [微博党](http://www.weibodang.cn/)：实用的视频下载网站，支持网易云公开课、头条视频、优酷、微博、腾讯视频等多个主流视频网站下载，还支持在线网页长截图、在线二维码生成等功能  
 -   [Savieo](https://savieo.com/)：一个视频下载工具，目前支持下载国外众多主流的34个网站，YouTube，Twitter，Facebook等等。
 
