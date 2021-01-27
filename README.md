@@ -86,6 +86,7 @@
 -   [AllTheFreeStock](https://allthefreestock.com/)：整合了全球近 200 个各类免费素材网站，包含了图片、视频、图标、样机、音效、配色……，做设计你想要的免费素材
 -   [Logo Instant](https://www.logoinstant.com/)：免费 Logo 设计下载
 -   [Stick Png](https://www.stickpng.com/)：免抠背景图像素材
+-   [千库网](https://588ku.com/)：免费 png 图片背景素材下载
 
 ### ✨ PPT 下载
 
@@ -248,6 +249,7 @@
 -   [Pexels](https://www.pexels.com/zh-cn/)：才华横溢的摄影作者在这里免费分享最精彩的素材照片和视频  
 -   [Wallpapermaiden](https://www.wallpapermaiden.com/)：壁纸下载
 -   [PickPik](https://www.pickpik.com/)：基于AI筛选的无版权图库
+-   [堆糖](https://www.duitang.com/)：美图壁纸兴趣社区
 
 ### ⏳ 软件下载
 
@@ -266,7 +268,12 @@
 -   [NoCmd](https://www.nocmd.com/)：各种绿色破解软件下载
 -   [Fosshub](https://www.fosshub.com/)：一个提供完全免费开源电脑软件的良心网站
 -   [极简插件](https://chrome.zzzmh.cn/)：用于收集浏览器所用插件，类似于Chrome的应用商店，但是可以通过第三方下载安装  
--   
+
+### 镜像站
+
+-   [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)：清华大学开源软件镜像站
+-   [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror/)：阿里巴巴开源镜像站
+-   [华为开源镜像站](https://mirrors.huaweicloud.com/)：华为开源镜像站
 
 ## 👀 联系我
 
