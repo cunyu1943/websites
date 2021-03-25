@@ -2,6 +2,14 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-websites?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-websites?color=G&label=Stars)
 
+>   🎈 持续更新中 ~
+
+我的其他项目，欢迎 **Star** 收藏：
+
+| CS-Docs                                                      | amazing-softwares                                            | amazing-books                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/amazing-websites) | [![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books) |
+
 ## 🚩 简介
 
 -   项目说明：推荐好玩好用的网站，此项目主要用于收集一些常用网站，长期持续更新。
@@ -278,6 +286,7 @@
 -   [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)：清华大学开源软件镜像站
 -   [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror/)：阿里巴巴开源镜像站
 -   [华为开源镜像站](https://mirrors.huaweicloud.com/)：华为开源镜像站
+-   [中科大开源镜像站](http://mirrors.ustc.edu.cn/)：中科大开源镜像站
 
 ## 👀 联系我
 
