@@ -34,6 +34,7 @@
 
 -   [网站分类](#网站分类)
     -   [PPT 下载](#PPT下载)
+    -   [云存储](#云存储)
     -   [在线作图](#在线作图)
 -   [作者](#Authors)
 
@@ -51,6 +52,22 @@
 | [吾道幻灯片](https://www.woodo.cn/home/)                    | 专业的 PPT 在线写作工具           |
 | [优品 PPT](https://www.ypppt.com/)                          | 一个有情怀的免费 PPT 模板下载网站 |
 | [站长素材](https://sc.chinaz.com/ppt/)                      | PPT 模板下载                      |
+
+## 云存储
+
+| 网站                                                         | 简介                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AirPortal](https://airportal.cn/)                           | 一个免费的多平台文件传输和分享网站                           |
+| [阿里云盘](https://www.aliyundrive.com/download)             | 具体容量不确定，可以通过做任务扩容，内测用户保留有免费 3T 容量，不限速 |
+| [百度网盘](https://pan.baidu.com/)                           | 免费 2T 容量，但限速                                         |
+| [城通网盘](https://www.ctfile.com/)                          | 免费 400G，单文件 4G，为用户提供广告分成收益服务             |
+| [坚果云](https://www.jianguoyun.com/)                        | 无限容量，但每月有 3G 下载流量和 1G 上传流量                 |
+| [蓝奏云](https://pc.woozooo.com/)                            | 无限容量，但上传文件大小限制在 100M 之内，不限速             |
+| [奶牛快传](https://cowtransfer.com/)                         | 免费 5G 容量，主打年轻客群的大文件传输服务商                 |
+| [OneDrive](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage?rtc=1) | 免费 5GB 容量，微软出品，国内访问较慢                        |
+| [曲奇](https://www.quqi.com/)                                | 免费 2T 容量，团队协作资料库                                 |
+| [天翼云盘](https://cloud.189.cn/web/login.html)              | 免费 1T 以上容量，早期用户福利较好，不限速                   |
+| [文叔叔](https://www.wenshushu.cn/)                          | 免费 40GB 容量，传大文件，不限速                             |
 
 
 
