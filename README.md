@@ -33,6 +33,7 @@
 # 导航
 
 -   [网站分类](#网站分类)
+    -   [论文检索](#论文检索)
     -   [PPT 下载](#PPT下载)
     -   [素材下载](#素材下载)
     -   [云存储](#云存储)
@@ -40,6 +41,21 @@
 -   [作者](#Authors)
 
 # 网站分类
+
+## 论文检索
+
+| 网站                                                  | 简介                                 |
+| ----------------------------------------------------- | ------------------------------------ |
+| [百度学术](https://xueshu.baidu.com/)                 | 百度学术搜索                         |
+| [谷粉学术](https://gfsoso.99lb.net/)                  | 论文、专利检索                       |
+| [谷歌学术](https://scholar.google.com.hk/?hl=zh-CN)   | 谷歌学术搜索                         |
+| [Open Access Library](https://www.oalib.com/)         | 免费获取学生文章                     |
+| [SCI-HUB](https://www.sci-hub.ren/)                   | 通过 URL、PMID、DOI 免费获取文章     |
+| [学术搜索](https://scholar.chongbuluo.com/)           | 站在巨人的肩膀上，多个知识库搜索集合 |
+| [万方数据](https://www.wanfangdata.com.cn/index.html) | 万方数据知识服务平台                 |
+| [知网](https://www.cnki.net/)                         | 知网                                 |
+
+
 
 ## PPT下载
 
