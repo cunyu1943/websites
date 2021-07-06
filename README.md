@@ -38,6 +38,7 @@
     -   [素材下载](#素材下载)
     -   [云存储](#云存储)
     -   [在线刷题](#在线刷题)
+    -   [在线学习](#在线学习)
     -   [在线作图](#在线作图)
 -   [作者](#Authors)
 
@@ -79,8 +80,6 @@
 | [LOGO神器](https://www.logosc.cn/so/)           | 免费版权图片一键搜索                                         |
 | [StickPNG](https://www.stickpng.com/)           | 免抠 PNG 背景图片下载                                        |
 
-
-
 ## 云存储
 
 | 网站                                                         | 简介                                                         |
@@ -111,6 +110,35 @@
 | [PTA](https://pintia.cn/)                          | 程序设计类实验辅助教学平台   |
 | [七月在线](https://www.julyedu.com/question/index) | AI 笔试面试题库              |
 | [赛码](https://www.acmcoder.com/)                  | IT 笔试面试加分利器          |
+
+
+
+## 在线学习
+
+| 网站                                                         | 学习                                                       |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| [菜鸟教程](https://www.runoob.com/)                          | 各种计算机语言学习教程                                     |
+| [大学资源网](http://www.dxzy163.com/)                        | 在线教育                                                   |
+| [How2J](https://how2j.cn/)                                   | 专注于 Java 学习的网站                                     |
+| [好大学在线](https://www.cnmooc.org/home/index.mooc)         | 中国顶尖的慕课平台                                         |
+| [极客学院](https://www.jikexueyuan.com/)                     | IT 在线教育平台                                            |
+| [廖雪峰的官方网站](https://www.liaoxuefeng.com/)             | 廖雪峰大佬的个人网站，有 Java、Python、Git 等教程          |
+| [蓝桥云课](https://www.lanqiao.cn/)                          | 连接高校和企业                                             |
+| [慕课网](https://www.imooc.com/)                             | 程序员的梦工厂                                             |
+| [书栈网](https://www.bookstack.cn/)                          | 程序员 IT 互联网开源书籍                                   |
+| [斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/) | 斯坦福吴恩达教授的在 coursera 上的机器学习公开课的知识笔记 |
+| [腾讯大学](https://daxuepc.com/)                             | 腾讯战略合作伙伴专属学习圈                                 |
+| [腾讯课堂](https://ke.qq.com/)                               | 职业培训、考试提升在线教育平台                             |
+| [W3school](https://www.w3school.com.cn/)                     | 全球最大中文 Web 技术教程                                  |
+| [W3Cschool](https://www.w3cschool.cn/)                       | 随时随地学编程                                             |
+| [网易云课堂](https://study.163.com/)                         | 系统化学习平台                                             |
+| [微软开发环境](https://docs.microsoft.com/zh-cn/windows/dev-environment/) | 微软出品的 Windows 开发环境教程                            |
+| [我要自学网](https://www.51zxw.net/)                         | 视频教程、自学电脑、编程、设计、会计                       |
+| [微信官方文档](https://developers.weixin.qq.com/doc/)        | 微信开放文档                                               |
+| [学堂在线](https://www.xuetangx.com/)                        | 精品在线课程学习平台                                       |
+| [易百教程](https://www.yiibai.com/)                          | 专注 IT 教程与实例                                         |
+| [优优教程](https://uiiiuiii.com/)                            | 免费自学 PS、AI、AE、C4D……                                 |
+| [中国大学 MOOC](https://www.icourse163.org/)                 | 国家精品课程在线学习平台                                   |
 
 
 
