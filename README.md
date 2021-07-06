@@ -34,6 +34,7 @@
 
 -   [网站分类](#网站分类)
     -   [PPT 下载](#PPT下载)
+    -   [素材下载](#素材下载)
     -   [云存储](#云存储)
     -   [在线作图](#在线作图)
 -   [作者](#Authors)
@@ -52,6 +53,18 @@
 | [吾道幻灯片](https://www.woodo.cn/home/)                    | 专业的 PPT 在线写作工具           |
 | [优品 PPT](https://www.ypppt.com/)                          | 一个有情怀的免费 PPT 模板下载网站 |
 | [站长素材](https://sc.chinaz.com/ppt/)                      | PPT 模板下载                      |
+
+## 素材下载
+
+| 网站                                            | 简介                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| [100 font](https://www.100font.com/)            | 一个专门收集整理“免费商用字体”的网站                         |
+| [AllTheFreeStock](https://allthefreestock.com/) | 整合了全球近 200 个各类免费素材网站，包含了图片、视频、图标、样机、音效、配色…… |
+| [LogoInstant](https://www.logoinstant.com/)     | 免费 Logo 设计下载                                           |
+| [LOGO神器](https://www.logosc.cn/so/)           | 免费版权图片一键搜索                                         |
+| [StickPNG](https://www.stickpng.com/)           | 免抠 PNG 背景图片下载                                        |
+
+
 
 ## 云存储
 
