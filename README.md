@@ -37,6 +37,7 @@
     -   [PPT 下载](#PPT下载)
     -   [素材下载](#素材下载)
     -   [云存储](#云存储)
+    -   [在线刷题](#在线刷题)
     -   [在线作图](#在线作图)
 -   [作者](#Authors)
 
@@ -54,8 +55,6 @@
 | [学术搜索](https://scholar.chongbuluo.com/)           | 站在巨人的肩膀上，多个知识库搜索集合 |
 | [万方数据](https://www.wanfangdata.com.cn/index.html) | 万方数据知识服务平台                 |
 | [知网](https://www.cnki.net/)                         | 知网                                 |
-
-
 
 ## PPT下载
 
@@ -97,6 +96,21 @@
 | [曲奇](https://www.quqi.com/)                                | 免费 2T 容量，团队协作资料库                                 |
 | [天翼云盘](https://cloud.189.cn/web/login.html)              | 免费 1T 以上容量，早期用户福利较好，不限速                   |
 | [文叔叔](https://www.wenshushu.cn/)                          | 免费 40GB 容量，传大文件，不限速                             |
+
+## 在线刷题
+
+| 网站                                               | 简介                         |
+| -------------------------------------------------- | ---------------------------- |
+| [百面网](http://www.100mian.com/)                  | IT 公司面试神器              |
+| [hihoCoder](http://hihocoder.com/problemset)       | LeetCode 类刷题网站          |
+| [Leetcode](https://leetcode.com/)                  | Leetcode 美国站              |
+| [力扣](https://leetcode-cn.com/)                   | Leetcode 中国站              |
+| [领扣](https://www.lintcode.com/problem/)          | LeetCode 类刷题网站          |
+| [牛客](https://www.nowcoder.com/profile/806383223) | 互联网求职神器和备考学习平台 |
+| [N 诺](http://noobdream.com/)                      | 计算机学习考研必备神器       |
+| [PTA](https://pintia.cn/)                          | 程序设计类实验辅助教学平台   |
+| [七月在线](https://www.julyedu.com/question/index) | AI 笔试面试题库              |
+| [赛码](https://www.acmcoder.com/)                  | IT 笔试面试加分利器          |
 
 
 
