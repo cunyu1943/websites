@@ -37,9 +37,11 @@
     -   [PPT 下载](#PPT下载)
     -   [素材下载](#素材下载)
     -   [云存储](#云存储)
+    -   [网盘搜索](#网盘搜索)
     -   [在线刷题](#在线刷题)
     -   [在线学习](#在线学习)
     -   [在线作图](#在线作图)
+    -   [综合搜索](#综合搜索)
 -   [作者](#Authors)
 
 # 网站分类
@@ -95,6 +97,28 @@
 | [曲奇](https://www.quqi.com/)                                | 免费 2T 容量，团队协作资料库                                 |
 | [天翼云盘](https://cloud.189.cn/web/login.html)              | 免费 1T 以上容量，早期用户福利较好，不限速                   |
 | [文叔叔](https://www.wenshushu.cn/)                          | 免费 40GB 容量，传大文件，不限速                             |
+
+## 网盘搜索
+
+| 网站                                       | 简介               |
+| ------------------------------------------ | ------------------ |
+| [45256 网盘之家](https://www.45256.com/)   | 百度网盘搜索神器   |
+| [56 网盘搜索](https://www.56wangpan.com/)  | 网盘搜索           |
+| [超能搜](https://www.chaonengsou.com/)     | 百度网盘搜索神器   |
+| [大圣盘](https://www.dashengpan.com/)      | 好用的网盘搜索     |
+| [大力盘搜索](https://dalipan.com/)         | 非常好用的网盘搜索 |
+| [飞飞盘搜索](https://www.feifeipan.com/#/) | 网盘搜索引擎       |
+| [酷搜](https://www.kolsou.com/)            | 百度网盘搜索引擎   |
+| [罗马盘](https://www.luomapan.com/)        | 网盘搜索神器       |
+| [面包树](https://mianbaoshu.cc/)           | 百度云资源搜索引擎 |
+| [天天搜索](http://www.daysou.com/)         | 云盘搜索神器       |
+| [网盘搜索](http://wp.soshoulu.com/)        | 百度网盘搜索神器   |
+| [小白盘](https://www.xiaobaipan.com/)      | 网盘搜索           |
+| [小马盘搜索](https://www.xiaomapan.com/#/) | 云盘搜索神器       |
+| [云盘狗](http://www.yunpangou.com/)        | 百度云网盘搜索     |
+| [猪猪盘](http://www.zhuzhupan.com/)        | 百度网盘资源搜索   |
+
+
 
 ## 在线刷题
 
@@ -157,6 +181,22 @@
 | [PlantUML](https://plantuml.com/zh/)                         | 开源工具，使用简单的文字描述画 UML 图                  |
 | [Process On](https://www.processon.com/i/5eec25bf1e08532637344b9c) | 免费在线作图、实时协作。支持流程图、思维导图、原型图等 |
 | [亿图图示](https://www.edrawmax.cn/online/zh/)               | 轻松搞定 200 余种办公绘图                              |
+
+## 综合搜索
+
+| 网站                                  | 简介                                                   |
+| ------------------------------------- | ------------------------------------------------------ |
+| [360 搜索](https://www.so.com/)       | 360 出品的搜索引擎                                     |
+| [百度](https://www.baidu.com/)        | 百度搜索                                               |
+| [必应](https://cn.bing.com/)          | 微软旗下的搜索引擎                                     |
+| [茶杯狐](https://www.cupfox.com/)     | 电影、剧集、动漫、节目搜索                             |
+| [DuchDuckGo](https://duckduckgo.com/) | 匿名搜索引擎                                           |
+| [谷歌搜索](https://www.google.com/)   | 谷歌搜索，不过国内需要科学上网才可以上                 |
+| [搜狗](https://www.sogou.com/)        | 搜狗搜索                                               |
+| [Trace Moe](https://trace.moe/)       | 提供一张动漫的截图，网站就可以帮助你轻松找到对应的动漫 |
+| [伪射手网](https://assrt.net/)        | 影视字幕搜索                                           |
+
+
 
 # Authors
 
